@@ -1,0 +1,53 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color:#5B84B1FF;
+}
+
+.selected {
+  box-sizing: border-box;
+  border: 2px solid red;
+}
+
+#buttonContainer {
+    display: flex;
+}
+
+#buttonContainer button {
+    margin:8px;
+}
+
+#champ_rotation{
+    display: flex;
+    flex-wrap: wrap;
+    margin:16px;
+}
+
+#random_champ{
+    margin: 16px;
+}
+
+
+button{
+    color: black;
+    border: 2px solid #FC766AFF;
+    border-radius: 0px;
+    padding: 18px 36px;
+    display: inline-block;
+    font-size: 14px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    box-shadow: inset 0 0 0 0 #FC766AFF;
+    -webkit-transition: ease-out 0.4s;
+    -moz-transition: ease-out 0.4s;
+    transition: ease-out 0.4s;
+}
+
+button:hover {
+    box-shadow: inset 0 0 0 50px #FC766AFF;
+}
+
+.is-invisible{
+    display: none;
+}
