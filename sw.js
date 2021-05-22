@@ -13,6 +13,9 @@ const filesToCache = [
     '/champion/Yasuo.png',
     '/champion/Poppy.png',
     '/champion/TahmKench.png',
+    '/icon-192x192.png',
+    '/icon-384x384.png',
+    '/icon-512x512.png',
     '/manifest.json'
 ];
 
