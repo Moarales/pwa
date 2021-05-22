@@ -7,6 +7,7 @@ const filesToCache = [
     '/script.js',
     '/index.html',
     '/favicon.ico',
+    '/champion/Amumu.png',
     '/champion/Blitzcrank.png',
     '/champion/Caitlyn.png',
     '/champion/MissFortune.png',
