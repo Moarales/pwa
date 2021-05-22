@@ -2,6 +2,7 @@ const SW_VERSION = 420;
 const CACHE_NAME = `OFFLINE_VERSION_${SW_VERSION}`;
 const OFFLINE_URL = "/offline.html";
 const filesToCache = [
+    '/',
     '/index.css',
     '/script.js',
     '/index.html',
