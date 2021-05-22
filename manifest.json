@@ -1,6 +1,6 @@
 {
-    "theme_color": "#020202",
-    "background_color": "#dd7b19",
+    "theme_color": "#FC766AFF",
+    "background_color": "#5B84B1FF",
     "display": "standalone",
     "scope": "/",
     "start_url": ".",
